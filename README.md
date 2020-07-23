@@ -1,13 +1,20 @@
 # QuickLogger
 A simple crossplatform python Keylogger.
 
-Requirements:
+
+
+
+
+# Requirements:
 
   python
 
   pyinput
 
-Downloads:
+
+
+
+# Downloads:
 
   Windows
   
